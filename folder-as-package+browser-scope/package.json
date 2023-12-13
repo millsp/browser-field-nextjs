@@ -1,0 +1,16 @@
+{
+  "name": "next-browser-fields",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "14.0.4",
+    "package": "../package",
+    "react": "18.2.0"
+  }
+}
